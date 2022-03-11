@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="Google">https://www.google.com/search?q=</string>
+    <string name="DDGo">https://duckduckgo.com/?q=</string>
+    <string name="Bing">https://www.bing.com/search?q</string>
+    <string name="description">No Description Required</string>
+</resources>

@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:id="@+id/searchEngineMenu"
+    >
+    <item
+        android:id="@+id/google"
+        android:titleCondensed="0"
+        android:title="Google"
+        />
+    <item
+        android:id="@+id/ddgo"
+        android:titleCondensed="1"
+        android:title="DDGo"/>
+    <item
+        android:id="@+id/bing"
+        android:titleCondensed="2"
+        android:title="Bing"/>
+
+</menu>
